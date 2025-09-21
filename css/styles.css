@@ -54,7 +54,7 @@ header{
 /* Our Mission Background Section */
 .mission-background{
     margin-top: 69px;
-    background-image: url('https://github.com/Jordanto23/tea-cozy-project/blob/main/img/img-mission-background.jpg?raw=true');
+    background-image: url('img/img-mission-background.jpg');
     height: 700px;
     background-repeat: no-repeat;
     background-position: center;
@@ -126,7 +126,7 @@ text-align: center;
 
 .locations{
 
-background-image: url('img/img-locations-background.jpg');
+background-image: url('');
     height: 500px;
     background-repeat: no-repeat;
     background-position: center;
