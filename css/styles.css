@@ -54,7 +54,7 @@ header{
 /* Our Mission Background Section */
 .mission-background{
     margin-top: 69px;
-    background-image: url('/Users/jordankulas/Desktop/tea cozy project/img/img-mission-background.jpg');
+    background-image: url('../img/img-mission-background.jpg');
     height: 700px;
     background-repeat: no-repeat;
     background-position: center;
